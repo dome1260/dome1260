@@ -3,12 +3,12 @@
 I'm Dome Full-stack Developer from Thailand, Nice to meet you everyone 😄
 
 <p align=center>
-  <img src="https://github.com/user-attachments/assets/65f0d09c-d1eb-42eb-9683-001225d2799d"/>
+  <img src="https://github.com/user-attachments/assets/144cfb05-a9ca-40af-8a3e-ca4cfedd5fc3"/>
 </p>
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,nodejs,vue,nuxtjs,tailwind,mongodb,mysql,postgresql,vite,netlify,gcp" />
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,vue,nuxtjs,tailwind,vuetify,nestjs,mongodb,mysql,postgresql,vite,netlify,vercel,gcp" />
   </a>
 </p>
 
